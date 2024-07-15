@@ -55,5 +55,4 @@ I learned to connect and work with an api to retrieve the necessary data to run 
 
 ## Author
 
-- Website - [Lucian Bellevue](https://lucianbellevue.com)
-- LinkedIn - [lucianbellevue](hhttps://www.linkedin.com/in/lucianbellevue/)
+- Lucian Bellevue <a href="https://lucianbellevue.com" target="_blank">portfolio</a>
