@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL ](https://github.com/LucianBellevue/ip-tracker-project)
-- Live Site URL: [live site URL](https://ip-tracker-project-beryl.vercel.app/)
+- Live Site URL: [Live site URL](https://ip-tracker-project-beryl.vercel.app/)
 
 ### Built with
 
