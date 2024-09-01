@@ -55,4 +55,5 @@ I learned to connect and work with an api to retrieve the necessary data to run 
 
 ## Author
 
-- Lucian Bellevue <a href="https://lucianbellevue.com" target="_blank">portfolio</a>
+- Lucian Bellevue <a href="https://lucianbellevue.com" target="_blank">portfolio</a><br>
+- <a href="https://linkedin.com/in/lucianbellevue.com" target="_blank">LinkedIn</a>
